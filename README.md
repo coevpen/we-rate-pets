@@ -53,7 +53,3 @@ We Rate Pets is a social media site where you can upload photos of your pets and
  * [Demo video](https://drive.google.com/file/d/1PuOcPgB2DyWoL_XwAIojflLZVxeox6Rv/view?usp=sharing)
 ![](/screenshotdemo.gif)
 
-## Repo and Deployment via Heroku
-* ( ◑‿◑)ɔ┏🍟--🍔┑٩(^◡^ )
-* [Repo Link](https://github.com/jessebubble/we-rate-pets)
-* [Heroku Deployment](https://infinite-sea-93313.herokuapp.com/)
